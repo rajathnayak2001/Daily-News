@@ -7,7 +7,7 @@ Used NewsApi to fetch news and parsed it using react parser.
 
 
 
-Used react routing to incorporate different category of news and route specific
+Used react routing to incorporate different category of news and fetch specific news of specific category
 
 
 ![](photos/photo2.png)
